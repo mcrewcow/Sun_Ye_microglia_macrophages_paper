@@ -11,7 +11,7 @@ The analysis consists of the following parts:
 4. RNA Velocity analysis + scFates - file:
 5. CellChat analysis - file:
 
-For questions and suggestions send your correspondence to:
+For questions and suggestions send your correspondence to: <br />
 Wang Tianxi - Contributing author - tianxi.wang@childrens.harvard.edu <br />
 Emil Kriukov - Bioinformatical analysis - ekriukov@meei.harvard.edu <br />
 Ye Sun - Corresponding author - ye.sun@childrens.harvard.edu
