@@ -13,5 +13,5 @@ The analysis consists of the following parts:
 For questions and suggestions send your correspondence to: <br />
 Wang Tianxi - Contributing author - tianxi.wang@childrens.harvard.edu <br />
 Guoshuai Cai - Bioinformatical analysis, p.1 - gcai@mailbox.sc.edu <br />
-Emil Kriukov - Bioinformatical analysis, p.3-5 - ekriukov@meei.harvard.edu <br />
+Emil Kriukov - Bioinformatical analysis, p.2-4 - ekriukov@meei.harvard.edu <br />
 Ye Sun - Corresponding author - ye.sun@childrens.harvard.edu
