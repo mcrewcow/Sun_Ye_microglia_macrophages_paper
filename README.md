@@ -7,7 +7,7 @@ empty for now <br />
 The analysis consists of the following parts:
 1. Seurat datasets preprocessing and annotation, GOBP pathway analysis - file: [Seurat](https://github.com/mcrewcow/Sun_Ye_microglia_macrophages_paper/blob/main/seurat_analysis_P13%5B1%5D.R)
 2. .loom file generation for RNA Velocity analysis - file: [RNA Velocity preprocessing](https://github.com/mcrewcow/Sun_Ye_microglia_macrophages_paper/blob/main/fastq_to_loom.sh)
-3. RNA Velocity analysis + scFates - file: [Jupyter Notebook](https://github.com/mcrewcow/Sun_Ye_microglia_macrophages_paper/blob/main/Socs3-Spp1-no_3D.ipynb),[Python code with 3D](https://github.com/mcrewcow/Sun_Ye_microglia_macrophages_paper/blob/main/Socs3-Spp1.py)
+3. RNA Velocity analysis + scFates - file: [Jupyter Notebook](https://github.com/mcrewcow/Sun_Ye_microglia_macrophages_paper/blob/main/Socs3-Spp1-no_3D.ipynb), [Python code with 3D](https://github.com/mcrewcow/Sun_Ye_microglia_macrophages_paper/blob/main/Socs3-Spp1.py)
 4. CellChat analysis - file:
 
 For questions and suggestions send your correspondence to: <br />
