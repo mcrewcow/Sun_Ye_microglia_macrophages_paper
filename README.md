@@ -1,6 +1,6 @@
 # SOCS3/Spp1 axis controls retinal angiogenesis through modulating neovascularization associated microglia 
-The datasets are available under the following GEO number: [GSE227861](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE227861) <br />
-<br /> 
+The datasets are available under the following GEO number: [GSE227861](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE227861). <br />
+For now, as the dataset is private, the token could be given upon request. <br /> 
 ![image](https://user-images.githubusercontent.com/77118598/223598115-08689a47-3b4c-498d-a02d-7416eceb2c2f.png)
 <br />
 
