@@ -11,7 +11,7 @@ The analysis consists of the following parts:
 4. CellChat analysis - file: [CellChat](https://github.com/mcrewcow/Sun_Ye_microglia_macrophages_paper/blob/main/cellchat.R)
 
 For questions and suggestions send your correspondence to: <br />
-Wang Tianxi - Contributing author - tianxi.wang@childrens.harvard.edu <br />
+Tianxi Wang - Contributing author - tianxi.wang@childrens.harvard.edu <br />
 Guoshuai Cai - Bioinformatical analysis, p.1 - gcai@mailbox.sc.edu <br />
 Emil Kriukov - Bioinformatical analysis, p.2-4 - ekriukov@meei.harvard.edu <br />
 Ye Sun - Corresponding author - ye.sun@childrens.harvard.edu
