@@ -10,6 +10,7 @@ sunye.combined <- merge(sunye_norm, y = sunye_WTOIR)
 sunye.combined <- merge(sunye.combined, y = sunye_KOOIR)
 
 library(scDC)
+library(broom.mixed)
 exprsMat <- GetAssayData(object = sunye.combined, assay = "RNA", slot = "data")
 cellTypes <- sunye.combined$labels
 subject <- sunye.combined$group
